@@ -236,39 +236,18 @@ You can analyze:
 * 🔄 Return communication
 
 ---
-
-# 🖼️ Project Screenshots
-
-Add your project screenshots here after uploading them to GitHub.
-
-### 🌐 Network Topology
-
-<p align="center">
-  <img src="Screenshots/topology.png" alt="Online Banking Network Topology" width="850">
-</p>
-
-### 📡 Packet Simulation
-
-<p align="center">
-  <img src="Screenshots/simulation.png" alt="Packet Simulation" width="850">
-</p>
-
-> 📌 Replace the image paths with the actual names of your uploaded screenshots.
-
 ---
 
 # 📂 Repository Structure
 
 ```text
-Reliable-Data-Transfer-Online-Banking/
+Reliable-Data-Transfer-System-for-Online-Banking/
 │
 ├── 📄 README.md
 │
-├── 🖥️ Reliable_Data_Transfer_Online_Banking.pkt
+├── 
 │
-└── 📁 Screenshots/
-    ├── 🖼️ topology.png
-    └── 🖼️ simulation.png
+└── 🖥️ Reliable_Data_Transfer_Online_Banking.pkt
 ```
 
 ---
@@ -286,7 +265,7 @@ Install **Cisco Packet Tracer**.
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/Reliable-Data-Transfer-Online-Banking.git
+git clone https://github.com/Soumen8706/Reliable-Data-Transfer-System-for-Online-Banking.git
 ```
 
 ### Step 3
